@@ -1,0 +1,7 @@
+Answer1: TLSv1.2, TLSv1.3, TCP, HTTP
+
+Answer2: t = time (OK) - time (GET) = 0.281352s
+
+Answer3: Client: 10.76.122.208, Server: 128.119.245.12
+
+Answer4: print.pdf
